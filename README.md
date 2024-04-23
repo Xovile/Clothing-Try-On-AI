@@ -58,6 +58,17 @@ To use the AI Clothing Try-On Model:
 3. Follow the instructions in the notebook or script to execute the model.
 4. View the final output image to see the virtual try-on result.
 
+## Sample
+
+#### Input
+
+![download](https://github.com/Xovile/Clothing-Try-On-AI/assets/34748927/124a0fca-9a01-472f-9f5d-9515c278e01d)
+
+#### Output
+
+![download (1)](https://github.com/Xovile/Clothing-Try-On-AI/assets/34748927/0d023180-3b35-42f4-bb6b-6dfa42feffa1)
+
+
 ## Contribution
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or fixes.
