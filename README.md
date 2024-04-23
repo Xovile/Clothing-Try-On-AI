@@ -48,9 +48,8 @@ Ensure you have the following dependencies installed:
 
 ## Usage
 
-First go to the [Files](https://github.com/Xovile/Clothing-Try-On-AI/tree/Try-On-files) branch of this repository, then follow the [README](https://github.com/Xovile/Clothing-Try-On-AI/blob/Try-On-files/README.md) there.
-
-After that follow the below instructions.
+> [!IMPORTANT]
+> First go to the [Files](https://github.com/Xovile/Clothing-Try-On-AI/tree/Try-On-files) branch of this repository, then follow the [README](https://github.com/Xovile/Clothing-Try-On-AI/blob/Try-On-files/README.md) there.
 
 To use the AI Clothing Try-On Model:
 
@@ -58,10 +57,6 @@ To use the AI Clothing Try-On Model:
 2. Provide the paths to the input images (model image and cloth image) when prompted.
 3. Follow the instructions in the notebook or script to execute the model.
 4. View the final output image to see the virtual try-on result.
-
-### Note
-
-The files couldn't be uploaded to Github due to size limitations. You can find these files in the [Releases](https://github.com/Xovile/Clothing-Try-On-AI/releases) section
 
 ## Contribution
 
