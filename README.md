@@ -48,6 +48,10 @@ Ensure you have the following dependencies installed:
 
 ## Usage
 
+First go to the [Files](https://github.com/Xovile/Clothing-Try-On-AI/tree/Try-On-files) branch of this repository, then follow the [README](https://github.com/Xovile/Clothing-Try-On-AI/blob/Try-On-files/README.md) there.
+
+After that follow the below instructions.
+
 To use the AI Clothing Try-On Model:
 
 1. Ensure all dependencies are installed.
